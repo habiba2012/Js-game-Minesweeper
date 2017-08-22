@@ -1,0 +1,63 @@
+body{
+    background-color:#eee;
+}
+
+table {
+    border-collapse:collapse;
+    margin:auto;
+}
+#tableBorder{
+    height:10px;
+    width:16px;
+}
+.headline{
+  font: 400 30px/1.5 'Pacifico', Helvetica, sans-serif;
+  color: #2b2b2b;
+  text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 7px 7px 0px rgba(0,0,0,0.05);
+  text-align:center;
+
+}
+#leftRightBorder{
+    height:16px;
+    width:16px;
+}
+#bottomBorder{
+    height:16px;
+    width:16px;
+}
+
+tbody {
+    line-height:0;
+}
+td {
+    padding:0;
+}
+
+.clicked {
+    background-color: #eee;
+    text-align:center;
+    
+}
+
+.bomb {
+    height:16px;
+    width:16px;
+}
+.blank {
+    height:16px;
+    width:16px;
+}
+.flag {
+    height:16px;
+    width:16px;
+}
+.innerHead{
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:20px;
+    padding-bottom:0;
+}
+
+footer {
+    text-align:center;
+}
